@@ -1,0 +1,4 @@
+safepickle
+PyQt4
+pyip
+configparser
